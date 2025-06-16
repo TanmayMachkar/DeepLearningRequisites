@@ -1,2 +1,4 @@
 Convolution and Transformations/cifar10/
+CNN/emnist
+Transfer Learning/data/
 *.tar.gz
